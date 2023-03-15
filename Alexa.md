@@ -1,38 +1,16 @@
-# Climate Control Tab
+# Useful Alexa Commands
 
-On the climate control tab, we currently have four things:
+- ***"Alexa, good morning"*** will give you a nice morning briefing to start your day.
+- ***"Alexa, weather briefing"*** will give you just the weather briefing instead of the entire morning briefing.
+- ***"Alexa, give me darkness"*** will darken the house except for some strategically placed nightlight scenes. This is mainly for use after kids bedtimes.
+- ***"Alexa, good night"*** turns off all lights except upstairs bathroom nightlight, and sets all Echo Dots to Do Not Disturb mode.
+- ***"Alexa, basement on"*** turns on the basement studio lights, Tony's computer, the basement TV, and optionally Kallen's computer (it will ask you whether you want to do this, just say yes or no).
 
-- **Climate Feed**
-- **Master Bedroom**
-- **Emma Bedroom**
-- **Climate On**
+## Lighting
 
-## Climate Feed
+You can call for lights on or off by saying "{name of room} lights on/off"
+Example: "Alexa, living room lights on"
 
-![Climate Feed](https://i.imgur.com/KiWbI9y.png)
+If you are in a room with an Echo Dot, and you want to control the lights in that same room, all you have to say is "Alexa, lights on" or "Alexa, lights off" and it will only change that room.
 
-This card provides a scrollable timeline of the last state change for each climate-related entity. This can be useful information to see at a glance what is running and what isn't, and what the current settings are (if applicable). This will only show devices that are currently available (so no air conditioners in the winter).
-
-## Master Bedroom
-
-![Master Bedroom](https://i.imgur.com/L7zV2Nr.png)
-
-This card is where the Master Bedroom's climate control settings live. Currently, this is the only room in the house with a smart air conditioner.
-
-Pretty self-explanatory...you can enable/disable the entire automation of climate settings for the master bedroom. You can also set whether the A/C is in fact installed...you would turn this off in winter when the AC is put away, which will make the automation ignore all A/C related nodes and only control the fan.
-
-The sliders at the bottom control the various temperatures that will be automatically set for the room at different phases of the day. At **wakeup time** (or "Alexa, good morning"), the daytime flow will be run. If the forecast high for the day is above 80, it will set the temperature to the **"Daytime Temp"** set by the slider (if not, it will just turn off the A/C). At the **"master bedroom cooling"** time (or "Alexa, give me darkness"), it will turn on the A/C and/or disable Eco mode as needed, and set the **"Night Temp"** from the slider. When the **goodnight** button from Global Scenes is pressed or "Alexa, goodnight" is activated, it will run the late night flow. The climate portion of that flow will set the A/C to the **bedtime temp** from the slider.
-
-Additionally, you can tap on any of the slider titles (eg, Daytime Temp) which will manually configure the room to that setting.
-
-## Emma Bedroom
-
-![Emma Bedroom](https://i.imgur.com/04JWGgj.png)
-
-This card is a lot simpler, because her A/C is not smart. It's just on a smart plug.
-
-## Climate On
-
-![Climate On](https://i.imgur.com/ZpGacWL.png)
-
-This card is easy. It simply displays any climate entities that are currently **ON**. You can use this to quickly turn off fans that are left on, or change the A/C settings.
+You can call scenes by saying "Alexa, turn on {scene} in {room}". There are some housewide/floorwide/multiroom scenes. There is a general list of scenes [here](https://github.com/tm24fan8/Home-Assistant-Configs/wiki/Lights#scenes)
