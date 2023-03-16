@@ -2,7 +2,7 @@
 
 ![Floor Tabs](https://i.imgur.com/21XNo0J.png)
 
-There are 6 tabs after the Home tab. One for each floor of the house, one for outdoors, one for global scenes (or, things that do stuff in multiple parts of the house), and one for [climate](https://github.com/tm24fan8/Home-Assistant-Configs/wiki/Climate) control.
+There are 6 tabs after the Home tab. One for each floor of the house, one for outdoors, one for global scenes (or, things that do stuff in multiple parts of the house), and one for [climate](/Climate) control.
 
 ## Room Cards
 
@@ -38,7 +38,7 @@ Hey, I might not be much of a sleeper, but for those who are...this is for you ;
 
 ## Room Scenes
 
-All scenes can be called with [Alexa](https://github.com/tm24fan8/Home-Assistant-Configs/wiki/Alexa#lighting) by saying "Alexa, turn on {scene} in {room}".
+All scenes can be called with [Alexa](/Alexa#lighting) by saying "Alexa, turn on {scene} in {room}".
 
 All rooms have the following scenes:
 
@@ -93,7 +93,7 @@ Additionally, rooms with color bulbs and/or multiple lights may have other scene
 
 ## Global/Multiroom Scenes
 
-These scenes will control multiple rooms and/or areas of the house. These are generally called with [Alexa](https://github.com/tm24fan8/Home-Assistant-Configs/wiki/Alexa#lighting) but most of them have UI buttons as well on the Global Scenes tab.
+These scenes will control multiple rooms and/or areas of the house. These are generally called with [Alexa](/Alexa#lighting) but most of them have UI buttons as well on the Global Scenes tab.
 
 - Adaptive on First Floor (Reset first floor light settings)
 - Adaptive on Second Floor (Reset second floor light settings)
