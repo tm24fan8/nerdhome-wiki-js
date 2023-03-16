@@ -13,4 +13,4 @@ Example: "Alexa, living room lights on"
 
 If you are in a room with an Echo Dot, and you want to control the lights in that same room, all you have to say is "Alexa, lights on" or "Alexa, lights off" and it will only change that room.
 
-You can call scenes by saying "Alexa, turn on {scene} in {room}". There are some housewide/floorwide/multiroom scenes. There is a general list of scenes [here](https://github.com/tm24fan8/Home-Assistant-Configs/wiki/Lights#scenes)
+You can call scenes by saying "Alexa, turn on {scene} in {room}". There are some housewide/floorwide/multiroom scenes. There is a general list of scenes [here](/Lights#room-scenes)
