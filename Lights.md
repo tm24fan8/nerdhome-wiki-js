@@ -1,5 +1,7 @@
 # Dashboard Tabs
 
+**These controls are currently being considered for a redesign. If you have any ideas or input, let me know.**
+
 ![Floor Tabs](https://i.imgur.com/21XNo0J.png)
 
 There are 6 tabs after the Home tab. One for each floor of the house, one for outdoors, one for global scenes (or, things that do stuff in multiple parts of the house), and one for [climate](/Climate) control.
@@ -47,7 +49,7 @@ All rooms have the following scenes:
 - Dimmed
 - Nightlight
 
-Additionally, rooms with color bulbs and/or multiple lights may have other scenes (in addition to the above). Those follow below, current as of 12/18/2022.
+Additionally, rooms with color bulbs and/or multiple lights may have other scenes (in addition to the above). Those follow below, current as of 4/17/2023.
 
 ### Living Room
 
@@ -97,10 +99,8 @@ These scenes will control multiple rooms and/or areas of the house. These are ge
 
 - Adaptive on First Floor (Reset first floor light settings)
 - Adaptive on Second Floor (Reset second floor light settings)
-- Night Mode on First Floor (Set "give me darkness" state on first floor)
-- Night Mode on Second Floor (Set "give me darkness" state on second floor)
-- Emma Naptime (Turn on hallway and Emma Bedroom light, and Emma's white noise)
-- Emma Wakeup (Turn on hallway light, Emma Bedroom light *in nightlight mode*, wait 5 minutes and shut off white noise)
+- Evening Mode on First Floor (Set evening or "give me darkness" state on first floor)
+- Evening Mode on Second Floor (Set evening or "give me darkness" state on second floor)
 - Global On (Turn on every light in the house)
 - Global Off (Turn off every light and smart switch/plug in the house)
 - Max Brightness (Turn on every light in the house, disable Adaptive Lighting and set maximum brightness in all rooms)
