@@ -1,3 +1,13 @@
+---
+title: Climate
+description: 
+published: true
+date: 2023-04-18T20:07:13.616Z
+tags: 
+editor: markdown
+dateCreated: 2023-04-17T18:44:56.863Z
+---
+
 # Climate Control Tab
 
 On the climate control tab, we currently have four things:
@@ -9,13 +19,13 @@ On the climate control tab, we currently have four things:
 
 ## Climate Feed
 
-![Climate Feed](https://i.imgur.com/KiWbI9y.png)
+![Climate Feed](/climate_feed.png)
 
 This card provides a scrollable timeline of the last state change for each climate-related entity. This can be useful information to see at a glance what is running and what isn't, and what the current settings are (if applicable). This will only show devices that are currently available (so no air conditioners in the winter).
 
 ## Master Bedroom
 
-![Master Bedroom](https://i.imgur.com/L7zV2Nr.png)
+![Master Bedroom](/master_bedroom_climate.png)
 
 This card is where the Master Bedroom's climate control settings live. Currently, this is the only room in the house with a smart air conditioner.
 
@@ -27,12 +37,12 @@ Additionally, you can tap on any of the slider titles (eg, Daytime Temp) which w
 
 ## Emma Bedroom
 
-![Emma Bedroom](https://i.imgur.com/04JWGgj.png)
+![Emma Bedroom](/emma_bedroom_climate.png)
 
 This card is a lot simpler, because her A/C is not smart. It's just on a smart plug.
 
 ## Climate On
 
-![Climate On](https://i.imgur.com/ZpGacWL.png)
+![Climate On](/climate_on.png)
 
 This card is easy. It simply displays any climate entities that are currently **ON**. You can use this to quickly turn off fans that are left on, or change the A/C settings.
