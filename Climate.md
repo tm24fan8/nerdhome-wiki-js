@@ -1,13 +1,3 @@
----
-title: Climate
-description: 
-published: true
-date: 2023-04-18T20:21:35.030Z
-tags: 
-editor: markdown
-dateCreated: 2023-04-17T18:44:56.863Z
----
-
 # Climate Control Tab
 
 On the climate control tab, we currently have four things:

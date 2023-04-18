@@ -1,13 +1,3 @@
----
-title: Communications
-description: 
-published: true
-date: 2023-04-18T20:21:58.729Z
-tags: 
-editor: markdown
-dateCreated: 2023-04-17T18:44:59.185Z
----
-
 # Communications
 
 This will go through some of the text-to-speech functions, announcements, briefings, notifications, and other communications options.

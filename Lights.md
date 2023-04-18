@@ -1,13 +1,3 @@
----
-title: Lights
-description: 
-published: true
-date: 2023-04-18T20:22:24.863Z
-tags: 
-editor: markdown
-dateCreated: 2023-04-17T18:45:01.500Z
----
-
 # Dashboard Tabs
 
 **These controls are currently being considered for a redesign. If you have any ideas or input, let me know.**
