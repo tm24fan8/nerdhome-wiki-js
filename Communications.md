@@ -2,7 +2,7 @@
 title: Communications
 description: 
 published: true
-date: 2023-04-18T20:08:33.131Z
+date: 2023-04-18T20:21:58.729Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-17T18:44:59.185Z
@@ -18,7 +18,7 @@ On the home page, you will find a card with 3 tabs for different forms of commun
 
 ### TTS
 
-![House Announcement System](/house_announcement_system.png)
+![House Announcement System](/pics/house_announcement_system.png)
 
 This tab will allow you to manually send any text-to-speech message you want, to any room you want (or common areas, which is living room and basement) in any of our available Amazon Polly voices.
 
@@ -26,7 +26,7 @@ This tab will allow you to manually send any text-to-speech message you want, to
 
 ### Text Notify
 
-![Text Notification System](/text_notification_system.png)
+![Text Notification System](/pics/text_notification_system.png)
 
 This tab allows you to send a Home Assistant text notification to any phone or TV. There are three priority levels: Normal, Alert, and Critical. These priority levels only affect phones. They are as follows:
 
@@ -40,12 +40,12 @@ TODO: add screenshot examples of notifications
 
 ***Currently broken, will hopefully have a fix soon***
 
-![Report System](/report_system.png)
+![Report System](/pics/report_system.png)
 
 This tab will allow you to send *New Ideas* or *Bug Reports* directly to my Todoist board where I keep track of what I'm currently working on. This is a good way to make sure I don't forget the thing you want me to do.
 
 ## Housewide Announcements
 
-![Announcements](/announcements.png)
+![Announcements](/pics/announcements.png)
 
 This card can be found on the Global Scenes tab. This gives you premade TTS announcements that you can play to the entire house. I will add more as I think of them. If you have any ideas, please feel free to let me know.
