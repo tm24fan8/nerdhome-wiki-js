@@ -2,7 +2,7 @@
 title: Lights
 description: 
 published: true
-date: 2023-04-18T20:10:05.040Z
+date: 2023-04-18T20:22:24.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-17T18:45:01.500Z
@@ -12,21 +12,21 @@ dateCreated: 2023-04-17T18:45:01.500Z
 
 **These controls are currently being considered for a redesign. If you have any ideas or input, let me know.**
 
-![Floor Tabs](/roomtabs.png)
+![Floor Tabs](/pics/roomtabs.png)
 
 There are 6 tabs after the Home tab. One for each floor of the house, one for outdoors, one for global scenes (or, things that do stuff in multiple parts of the house), and one for [climate](/Climate) control.
 
 ## Room Cards
 
-![Room Cards](/roomcard.png)
+![Room Cards](/pics/roomcard.png)
 
 In the floor tabs, there is a card for each room on that floor.
 
 There is a large icon at the top of each card...this will turn on/off all lights in that room. If you ***double tap*** the icon quickly, it will reset the lights to their default state (adaptive lighting, in most cases). If you are in a room with multiple individual lights, I have included toggle buttons for each light. Feel free to use those when you don't want EVERY light in the room to be on. When any lights in the room are on, you will see a dimmer that you can drag to manually set the brightness. If the room has RGB lighting, you can select color and color temperature (shades of white) as well.
 
-![Dimmer](/dimmer.png)
-![Color Temp](/colortemp.png)
-![RGB Color](/rgb.png)
+![Dimmer](/pics/dimmer.png)
+![Color Temp](/pics/colortemp.png)
+![RGB Color](/pics/rgb.png)
 
 If there are any fans, air conditioners, smartplug devices, sensors, or other smart accessories in a room, they will generally be on these cards as well.
 
@@ -34,7 +34,7 @@ There is a scenes dropdown box for each room as well. These are basically saved 
 
 If you expand the ***More Settings*** section, you will find any extra settings for that room (Adaptive Lighting, Night Mode, and anything else that is room-specific) that I didn't want to clutter up the main card with. To continue using the Living Room example:
 
-![More Settings](/more_settings.png)
+![More Settings](/pics/more_settings.png)
 
 Most of the time you shouldn't need to use these, because automation will handle them as needed. But I have left them there for easy access in case they are needed, as well as just being able to see what's going on.
 
