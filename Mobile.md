@@ -10,11 +10,11 @@ This card will show you some current weather information. If you tap on this car
 
 ## Popup Cards
 
-Admin Version
+### Admin Version
 
 ![Mobile Popup Buttons - Admin](/pics/mobile_popup_buttons.png)
 
-Kallen Version
+### Kallen Version
 
 ![Mobile Popup Buttons - Kallen](/pics/mobile_popup_buttons_kallen.png)
 
